@@ -75,6 +75,17 @@
    ```bash
    ReactorBorn.exe
    ```
+## Zrzuty ekranu
+
+<p align="center">
+  <img src="https://i.imgur.com/bbjZrwN.png" alt="Widok 3" width="400" style="margin: 10px; border: 1px solid #ccc;"/>
+  <img src="https://i.imgur.com/Gi4EWaX.png" alt="Widok 2" width="400" style="margin: 10px; border: 1px solid #ccc;"/>
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/N7Fm9HH.png" alt="Widok 1" width="400" style="margin: 10px; border: 1px solid #ccc;"/>
+  <img src="https://i.imgur.com/34Cz38y.png" alt="Widok 4" width="400" style="margin: 10px; border: 1px solid #ccc;"/>
+</p>
 
 ## Wymagania
 
