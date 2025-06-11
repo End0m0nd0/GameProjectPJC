@@ -15,7 +15,7 @@ FetchContent_Declare(
 
 FetchContent_MakeAvailable(SFML)
 
-add_executable(untitled src/main.cpp
+add_executable(ReactorBorn src/main.cpp
         src/Player.cpp
         src/Player.h
         src/Projectile.cpp
@@ -60,4 +60,4 @@ add_executable(untitled src/main.cpp
         src/Path.cpp
         src/Path.h
 )
-target_link_libraries(untitled sfml-graphics)
+target_link_libraries(ReactorBorn sfml-graphics)
